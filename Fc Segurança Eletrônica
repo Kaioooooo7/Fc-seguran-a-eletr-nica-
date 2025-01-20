@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FC Segurança Eletrônica</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>FC Segurança Eletrônica</h1>
+            <nav>
+                <ul>
+                    <li><a href="#servicos">Serviços</a></li>
+                    <li><a href="#contato">Contato</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="hero">
+        <div class="container">
+            <h2>Protegendo o que importa para você</h2>
+            <p>Especialistas em segurança eletrônica: câmeras, alarmes, portões automatizados e muito mais.</p>
+        </div>
+    </section>
+
+    <section id="servicos">
+        <div class="container">
+            <h2>Serviços</h2>
+            <ul>
+                <li>Instalações de câmeras de monitoramento</li>
+                <li>Cerca elétrica</li>
+                <li>Portões automatizados</li>
+                <li>CFTV</li>
+                <li>Alarmes</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="contato">
+        <div class="container">
+            <h2>Contato</h2>
+            <p>Entre em contato conosco para mais informações ou um orçamento gratuito:</p>
+            <ul>
+                <li><strong>Telefone:</strong> (00) 12345-6789</li>
+                <li><strong>E-mail:</strong> contato@fcsegurancaeletronica.com</li>
+                <li><strong>Endereço:</strong> Rua Exemplo, 123 - Cidade/Estado</li>
+            </ul>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 FC Segurança Eletrônica. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+</body>
+</html>
